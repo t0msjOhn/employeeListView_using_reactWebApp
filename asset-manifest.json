@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/employeeListView_using_reactWebApp/static/css/main.31a5e437.css",
+    "main.js": "/employeeListView_using_reactWebApp/static/js/main.10943e4e.js",
+    "static/js/787.04ebfe0e.chunk.js": "/employeeListView_using_reactWebApp/static/js/787.04ebfe0e.chunk.js",
+    "index.html": "/employeeListView_using_reactWebApp/index.html",
+    "main.31a5e437.css.map": "/employeeListView_using_reactWebApp/static/css/main.31a5e437.css.map",
+    "main.10943e4e.js.map": "/employeeListView_using_reactWebApp/static/js/main.10943e4e.js.map",
+    "787.04ebfe0e.chunk.js.map": "/employeeListView_using_reactWebApp/static/js/787.04ebfe0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31a5e437.css",
+    "static/js/main.10943e4e.js"
+  ]
+}
